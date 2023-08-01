@@ -1,0 +1,40 @@
+Aug 01 13:08:10 restu systemd[1]: Starting OpenBSD Secure Shell server...
+Aug 01 13:08:10 restu sshd[804]: Server listening on 0.0.0.0 port 22.
+Aug 01 13:08:10 restu sshd[804]: Server listening on :: port 22.
+Aug 01 13:08:10 restu systemd[1]: Started OpenBSD Secure Shell server.
+Aug 01 13:08:24 restu systemd[1]: Stopping OpenBSD Secure Shell server...
+Aug 01 13:08:24 restu sshd[804]: Received signal 15; terminating.
+Aug 01 13:08:24 restu systemd[1]: ssh.service: Deactivated successfully.
+Aug 01 13:08:24 restu systemd[1]: Stopped OpenBSD Secure Shell server.
+Aug 01 13:08:24 restu systemd[1]: Starting OpenBSD Secure Shell server...
+Aug 01 13:08:24 restu sshd[1282]: Server listening on 0.0.0.0 port 22.
+Aug 01 13:08:24 restu sshd[1282]: Server listening on :: port 22.
+Aug 01 13:08:24 restu systemd[1]: Started OpenBSD Secure Shell server.
+Aug 01 13:10:53 restu sshd[1462]: Accepted password for dicoding from 127.0.0.1 port 45910 ssh2
+Aug 01 13:10:53 restu sshd[1462]: pam_unix(sshd:session): session opened for user dicoding(uid=1001) by (uid=0)
+Aug 01 13:12:46 restu sshd[1605]: Connection closed by authenticating user dicoding 127.0.0.1 port 59304 [preauth]
+Aug 01 13:12:46 restu sshd[1612]: Connection closed by authenticating user dicoding 127.0.0.1 port 59314 [preauth]
+Aug 01 13:12:52 restu sshd[1625]: Connection closed by authenticating user dicoding 127.0.0.1 port 59318 [preauth]
+Aug 01 13:12:56 restu sshd[1651]: Connection closed by authenticating user dicoding 127.0.0.1 port 37928 [preauth]
+Aug 01 13:12:56 restu sshd[1658]: Connection closed by authenticating user dicoding 127.0.0.1 port 37934 [preauth]
+Aug 01 13:13:00 restu sshd[1671]: Accepted password for dicoding from 127.0.0.1 port 37936 ssh2
+Aug 01 13:13:00 restu sshd[1671]: pam_unix(sshd:session): session opened for user dicoding(uid=1001) by (uid=0)
+Aug 01 13:13:01 restu sshd[1671]: pam_unix(sshd:session): session closed for user dicoding
+Aug 01 13:15:12 restu sshd[1282]: Received signal 15; terminating.
+Aug 01 13:15:12 restu systemd[1]: Stopping OpenBSD Secure Shell server...
+Aug 01 13:15:12 restu systemd[1]: ssh.service: Deactivated successfully.
+Aug 01 13:15:12 restu systemd[1]: Stopped OpenBSD Secure Shell server.
+Aug 01 13:15:12 restu systemd[1]: Starting OpenBSD Secure Shell server...
+Aug 01 13:15:12 restu sshd[1782]: Server listening on 0.0.0.0 port 22.
+Aug 01 13:15:12 restu sshd[1782]: Server listening on :: port 22.
+Aug 01 13:15:12 restu systemd[1]: Started OpenBSD Secure Shell server.
+Aug 01 13:15:19 restu sshd[1784]: Accepted publickey for dicoding from 127.0.0.1 port 50642 ssh2: RSA SHA256:iN/82b5xwgc85w1uEivOuz2XCiUemK8bV2Jn6Qp8aes
+Aug 01 13:15:19 restu sshd[1784]: pam_unix(sshd:session): session opened for user dicoding(uid=1001) by (uid=0)
+Aug 01 13:16:11 restu sshd[1782]: Received signal 15; terminating.
+Aug 01 13:16:11 restu systemd[1]: Stopping OpenBSD Secure Shell server...
+Aug 01 13:16:11 restu systemd[1]: ssh.service: Deactivated successfully.
+Aug 01 13:16:11 restu systemd[1]: Stopped OpenBSD Secure Shell server.
+Aug 01 13:16:11 restu systemd[1]: Starting OpenBSD Secure Shell server...
+Aug 01 13:16:11 restu sshd[1871]: Server listening on 0.0.0.0 port 2000.
+Aug 01 13:16:11 restu sshd[1871]: Server listening on :: port 2000.
+Aug 01 13:16:11 restu systemd[1]: Started OpenBSD Secure Shell server.
